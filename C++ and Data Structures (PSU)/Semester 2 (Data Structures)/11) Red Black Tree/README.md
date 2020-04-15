@@ -26,3 +26,15 @@ Print:  Print out a representation of the tree.  It should have the number, red 
  
 
 Total points: 60
+
+**Deletion**
+
+Add the following functions to your Red-Black tree.
+
+Search:  Enter a number, and return whether it is in the tree. (10 points)
+
+Remove:  Remove a particular number.  Update the tree. (40 points)
+
+ 
+
+Total points: 50
