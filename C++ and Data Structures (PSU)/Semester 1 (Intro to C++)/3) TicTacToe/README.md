@@ -15,8 +15,11 @@ Implementation:  Use a grid with letters and numbers to allow the user to enter 
 Example:
 
   1	2	3
-a	X		
+  
+a	X
+
 b		X	O
+
 c	O		
  
 
