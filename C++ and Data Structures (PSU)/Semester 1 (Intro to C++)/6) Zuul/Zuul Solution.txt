@@ -1,0 +1,36 @@
+go south
+go south
+go east
+take Snow Cone Machine
+go east
+go east
+go east
+take Fedora
+go west
+go west
+go west
+go west
+go north
+go east
+go east
+go north
+take Rubber Ducky
+go east
+go east
+take Banana
+go south
+go west
+take Pumpkin
+go north
+go west
+go south
+go west
+go west
+go north
+inventory
+give
+Snow Cone Machine
+Fedora
+Rubber Ducky
+Banana
+Pumpkin
