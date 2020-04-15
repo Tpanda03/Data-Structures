@@ -14,13 +14,10 @@ Implementation:  Use a grid with letters and numbers to allow the user to enter 
 
 Example:
 
-  1	2	3
-  
-a	X
-
-b		X	O
-
-c	O		
+_ 1	2	3  
+a	X _ _
+b	X	O _
+c	O	_	_
  
 
 Have the user enter a move, check to see if the move is legal, and enter the move if it is legal.  (10 points)  Start with X.  After each move, check to see if the board contains a win or a tie.  Reset the board and show winning totals if they win/tie.  (10 points)  Then redraw the board.
